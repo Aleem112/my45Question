@@ -1,4 +1,4 @@
-let quote: string= "A person who never made a mistake never tried anything new";
-let famous_person= "Albert Einstein";
-let message=`${famous_person} once said, ${quote}`;
-console.log(message);
+let personname: string =`\n\t Aleem Abbas\t\n`;
+console.log(personname);
+let stripped: string = personname.trim();
+console.log(stripped);
