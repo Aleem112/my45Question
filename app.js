@@ -1,4 +1,4 @@
-var personname = "\n\t Aleem Abbas\t\n";
-console.log(personname);
-var stripped = personname.trim();
-console.log(stripped);
+console.log(4 + 4);
+console.log(12 - 4);
+console.log(2 * 4);
+console.log(16 / 2);
